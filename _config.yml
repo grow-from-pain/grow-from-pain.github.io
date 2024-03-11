@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 成长日记
-email: your-email@example.com
+email: 9s5vzjv2b#relay.firefox.com
 description: >- # this means to ignore newlines until "baseurl:"
   心智晚熟的人生体悟
 baseurl: "" # the subpath of your site, e.g. /blog
